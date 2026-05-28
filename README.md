@@ -31,5 +31,5 @@ Calcul du délai moyen mensuel  avec ROUND(AVG(delai_jours), 1) et un GROUP BY M
   
 ## Visualisation
 ![Frequence achat 2023](frequence_achat.png)
-![Panier moyen par genre 2023](anier_moyen_gender.png)
+![Panier moyen par genre 2023](panier_moyen_gender.png)
 ![Délais de livraison par mois 2023](delai_livraison.png)
