@@ -17,7 +17,7 @@ Objectif : comprendre le comportement des clients pour répondre au faible taux 
 ## Recommandations
 1. Vérification de la qualité des données pour évaluer la véracité des  chiffres sur la fréquence client + campagne de retargeting pour fidéliser les clients.
 2. Campagnes de marketing pour cibler les femmes si l'analyse du stock met en avant une forte part de produits destinés à cette cible.
-3. Analyse de la satisfaction client sur la livraison pour répondre à la mauvaise rétention client et à la chute des users entre la l'expédition et la réception.
+3. Lancement d'un audit du process logistique entre expédition et livraison, qui représente la chute la plus critique du funnel (-47%) + mise en place d'un questionnaire de satisfaction post-livraison.
    
 ## Méthodologie
 1. Analyse de la fréquence - utilisation de la table "orders"
